@@ -3,7 +3,7 @@
 ---
 ## 2.1) Assignment 2: Import and explore the data
 
-![Gibralter Time Series](https://github.com/heyashy/LSE_DA_COVID_analysis/blob/main/screenshot.jpg?raw=true)
+![Gibralter Time Series](https://raw.githubusercontent.com/heyashy/LSE_DA_COVID_analysis/main/images/gib_time_series.png)
 
 ### Initial findings
 
