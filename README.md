@@ -5,7 +5,7 @@
 
 ![Gibralter Time Series](https://raw.githubusercontent.com/heyashy/LSE_DA_COVID_analysis/main/images/gib_time_series.png)
 
-# Initial findings
+### <u>Findings</u>
 
 <p>Our data set contains time-series data from 2020-01-22 until 2021-10-15. In the above example we examined the case, death, recovery and hospitalisation data fro Gibralter. From the above chart we can extrapulate:</p>
 
