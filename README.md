@@ -5,7 +5,7 @@
 
 ![Gibralter Time Series](https://raw.githubusercontent.com/heyashy/LSE_DA_COVID_analysis/main/images/gib_time_series.png)
 
-### <u>Findings</u>
+### *Findings*
 
 <p>Our data set contains time-series data from 2020-01-22 until 2021-10-15. In the above example we examined the case, death, recovery and hospitalisation data fro Gibralter. From the above chart we can extrapulate:</p>
 
@@ -31,11 +31,11 @@
 ![3.1-normalised-recovered](https://github.com/heyashy/LSE_DA_COVID_analysis/blob/main/images/3.1-normalised-recovered.png?raw=true)
 ![3.1-normalised-vaccinations](https://github.com/heyashy/LSE_DA_COVID_analysis/blob/main/images/3.1-normalised-vaccinations.png?raw=true)
 
-## <u>Findings</u>
+## *Findings*
 
 <p>There are several anomalies with our data set that need to be taken into account when we review our findings. We need to go over these as possible errors in data and would need to add a low confidence margin to any finding below</p>
 
-<p><u><strong>OTHERS</strong> is going to skew our dataset so we should remove it from all analysis</u></p>
+<p>***OTHERS*** is going to skew our dataset so we should remove it from all analysis</u></p>
 
 - Normalised vaccinations and hospital admissions charts show that every Province has an exact match to the other in terms of shape. This is impossible in the real world and there would be variances. We should look into the source of this data and find errors
 - Gibraltar, Turs and Caicos Islands Isle of Man and British Virgin Islands all have a significat spike in cases mid way through our timeframe. We should look into this further.
