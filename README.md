@@ -35,7 +35,7 @@
 
 <p>There are several anomalies with our data set that need to be taken into account when we review our findings. We need to go over these as possible errors in data and would need to add a low confidence margin to any finding below</p>
 
-<p>*OTHERS is going to skew our dataset so we should remove it from all analysis*</p>
+<p>**OTHERS is going to skew our dataset so we should remove it from all analysis**</p>
 
 - Normalised vaccinations and hospital admissions charts show that every Province has an exact match to the other in terms of shape. This is impossible in the real world and there would be variances. We should look into the source of this data and find errors
 - Gibraltar, Turs and Caicos Islands Isle of Man and British Virgin Islands all have a significat spike in cases mid way through our timeframe. We should look into this further.
