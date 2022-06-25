@@ -25,6 +25,12 @@
 
 ## Assignment activity 3: Merge and analyse the data
 
+![3.1-normalised-cases](https://github.com/heyashy/LSE_DA_COVID_analysis/blob/main/images/3.1-normalised-cases.png?raw=true)
+![3.1-normalised-deaths](https://github.com/heyashy/LSE_DA_COVID_analysis/blob/main/images/3.1-normalised-deaths.png?raw=true)
+![3.1-normalised-hospital](https://github.com/heyashy/LSE_DA_COVID_analysis/blob/main/images/3.1-normalised-hospital.png?raw=true)
+![3.1-normalised-recovered](https://github.com/heyashy/LSE_DA_COVID_analysis/blob/main/images/3.1-normalised-recovered.png?raw=true)
+![3.1-normalised-vaccinations](https://github.com/heyashy/LSE_DA_COVID_analysis/blob/main/images/3.1-normalised-vaccinations.png?raw=true)
+
 ## <u>Findings</u>
 
 <p>There are several anomalies with our data set that need to be taken into account when we review our findings. We need to go over these as possible errors in data and would need to add a low confidence margin to any finding below</p>
