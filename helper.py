@@ -29,7 +29,7 @@ def draw_group_chart(df, data, title = 'Global COVID-19 Data'):
     for province in df['Province/State'].unique():
         ax =  sns.lineplot(ax=axes[pos_x, pos_y], data=df[(df['Province/State'] == province)][data], palette='Set2') 
         handles, labels = ax.get_legend_handles_labels()
-        fig.legend(handles, labels, bbox_to_anchor=(1.02,1))
+        fig.legend(handles, labels, loc='upper right')
         ax.get_legend().remove()
         ax.set_title(label=province, fontsize = 10)
         ax.set_xticks([])
