@@ -93,3 +93,16 @@ From our global death data we can see two main spikes in deaths during our data 
 
 ---
 ## Assignment activity 5: Analyse the Twitter data
+Our tweet data shows us some very clear patterns in the data. We can see that the most common words in the data are:
+![tweet-wrod](https://github.com/heyashy/LSE_DA_COVID_analysis/blob/main/images/words.png?raw=true)
+We can see that none of the words are anything negative like "hoax", "lie", "false" or "don't". This could imply taht disinformation is not being used to spread on a large scale on the platform. We would, however, need to examine this further.
+
+Intersting words are "Greece", "Athens", "Amp", "China" and "May". We should look into this fruther.
+
+The top trending hash (filtered for above 100 tweets) are:
+
+![hashtags](https://github.com/heyashy/LSE_DA_COVID_analysis/blob/main/images/hashtags.png?raw=true)
+
+Almost all of the tags are within the remit of this data set. However, we should look at tweets for #China and #Greece to see if there are any other trends that are not being reflected in the data.
+
+
