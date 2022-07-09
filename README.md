@@ -41,16 +41,16 @@ There are several anomalies with our data set that need to be taken into account
 - Gibraltar, Turs and Caicos Islands Isle of Man and British Virgin Islands all have a significat spike in cases mid way through our timeframe. We should look into this further.
 - Anguilla, Montserrat, Cayman Islands and Stain Helena, Ascension and Tristian de Cunha all have very weird plots for the normalised deaths. We should look into this further
 - Falkland Islands has had no deaths. This could be an error.
-- Our recovery data looks incomplete. We need to look at why the data suddenly stops todards the end of the data set.
-- Many of the normalised graphs in the dataframe have a step pattern which is not possible from complete data of the nature we are dealing with. We should look at the raw data to see if there are missing or incorret values within it.
+- Our recovery data looks incomplete. We need to look at why the data suddenly stops towards the end of the data set.
+- Many of the normalised graphs in the dataframe have a step pattern which is not possible from complete data of the nature we are dealing with. We should look at the raw data to see if there are missing or incorrect values within it.
 
 ### Insights
 
 - Anguilla, The Isle of Man and British Virgin Islands controlled the spread of infection the best
 - The Falkland Islands had not deaths
 - Montesrrat had the most deaths per capita.
-- There is a odd spike in hospital admissions at the start of the pandemic. There is also a major spike towards the end of 2020. This is then followed by a major drop in admissions. This would impy that the hospital beds were full and it has a direct correlation to the rise in death rates across all regions.
-- Apart from Others, who only had recovered patinets at the start of the pandemic the rest of the countries had recovery in-line with the rise in infection rates.
+- There is a odd spike in hospital admissions at the start of the pandemic. There is also a major spike towards the end of 2020. This is then followed by a major drop in admissions. This would imply that the hospital beds were full and it has a direct correlation to the rise in death rates across all regions.
+- Apart from Others, who only had recovered patients at the start of the pandemic the rest of the countries had recovery in-line with the rise in infection rates.
 
 ## Assignment activity 4: Merge and analyse the data
 
@@ -89,15 +89,15 @@ From our correlation heatmap we can see that the most correlated variables are:
 
 ![deaths](https://github.com/heyashy/LSE_DA_COVID_analysis/blob/main/images/deaths_over_time_global.png?raw=true)
 
-From our global death data we can see two main spikes in deaths during our data set that plateau for a short period between each spike. It can be assumed that governement intervention and policy casued the spikes to plateau. We should look into this further.
+From our global death data we can see two main spikes in deaths during our data set that plateau for a short period between each spike. It can be assumed that government intervention and policy caused the spikes to plateau. We should look into this further.
 
 ---
 ## Assignment activity 5: Analyse the Twitter data
 Our tweet data shows us some very clear patterns in the data. We can see that the most common words in the data are:
 ![tweet-wrod](https://github.com/heyashy/LSE_DA_COVID_analysis/blob/main/images/words.png?raw=true)
-We can see that none of the words are anything negative like "hoax", "lie", "false" or "don't". This could imply taht disinformation is not being used to spread on a large scale on the platform. We would, however, need to examine this further.
+We can see that none of the words are anything negative like "hoax", "lie", "false" or "don't". This could imply that disinformation is not being used to spread on a large scale on the platform. We would, however, need to examine this further.
 
-Intersting words are "Greece", "Athens", "Amp", "China" and "May". We should look into this fruther.
+Interesting words are "Greece", "Athens", "Amp", "China" and "May". We should look into this further.
 
 The top trending hash (filtered for above 100 tweets) are:
 
