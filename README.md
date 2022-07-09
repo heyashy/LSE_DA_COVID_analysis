@@ -90,3 +90,6 @@ From our correlation heatmap we can see that the most correlated variables are:
 ![deaths](https://github.com/heyashy/LSE_DA_COVID_analysis/blob/main/images/deaths_over_time_global.png?raw=true)
 
 From our global death data we can see two main spikes in deaths during our data set that plateau for a short period between each spike. It can be assumed that governement intervention and policy casued the spikes to plateau. We should look into this further.
+
+---
+## Assignment activity 5: Analyse the Twitter data
